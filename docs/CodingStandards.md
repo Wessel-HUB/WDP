@@ -285,3 +285,18 @@ Generated code should be reviewed before being committed.
 Clean code is not code with fewer lines.
 
 Clean code is code that is easier to understand tomorrow than it was yesterday.
+
+# Pragmatism
+
+WDP values practical engineering over theoretical perfection.
+
+Choose the simplest solution that:
+
+- Solves the business problem.
+- Can be maintained.
+- Can be explained.
+- Can evolve over time.
+
+Avoid unnecessary complexity introduced solely because a design pattern or technology is fashionable.
+
+Technology should serve the business—not the other way around.
