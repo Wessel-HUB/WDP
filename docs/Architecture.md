@@ -18,17 +18,17 @@ WDP is built around five core pillars.
 
 ```
 Knowledge
-        |
-        v
+        │
+        ▼
 Standards
-        |
-        v
+        │
+        ▼
 Templates
-        |
-        v
+        │
+        ▼
 Automation
-        |
-        v
+        │
+        ▼
 Continuous Improvement
 ```
 

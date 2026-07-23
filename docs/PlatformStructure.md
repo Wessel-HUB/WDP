@@ -12,6 +12,7 @@ WDP is the engineering platform that provides shared knowledge, standards, templ
 
 ## Repository Layout
 
+```text
 WDP
 │
 ├── docs/
@@ -54,6 +55,7 @@ Contains project templates for different technology stacks.
 
 Examples:
 
+```text
 templates/
 ├── framework48/
 ├── dotnet8/
@@ -71,6 +73,7 @@ Contains reusable assets that can be shared across multiple projects.
 
 Examples:
 
+```text
 shared/
 ├── auth/
 ├── logging/
@@ -89,6 +92,7 @@ Contains automation and developer tooling.
 
 Examples:
 
+```text
 tools/
 ├── cli/
 ├── generators/

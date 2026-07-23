@@ -12,6 +12,7 @@ The goal is to ensure that every project is organized consistently, making navig
 
 ## Standard Project Layout
 
+```text
 ProjectRoot
 │
 ├── .claude/
