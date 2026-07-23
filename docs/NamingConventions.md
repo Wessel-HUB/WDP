@@ -290,7 +290,7 @@ GateDirection
 
 ---
 
-# Database Tables
+# SQL Database Tables
 
 Tables use PascalCase and plural nouns.
 
@@ -306,7 +306,7 @@ ParkingSessions
 
 ---
 
-# Primary Keys
+# SQL Primary Keys
 
 Use
 
@@ -326,7 +326,7 @@ TransactionId
 
 ---
 
-# Stored Procedures
+# SQL Stored Procedures
 
 Stored procedures begin with
 
@@ -353,6 +353,64 @@ Examples
 vw_CurrentSessions
 
 vw_DailyRevenue
+
+---
+
+# SQL Functions
+
+Functions begin with 
+
+fn_
+
+Examples
+
+fn_CalculatePArkingFee
+
+fn_CreateAccount
+
+fn_ClearPayment
+
+---
+
+# SQL Triggers
+
+Triggers begin with 
+
+trg_
+
+Examples
+
+trg_Payment_Insert
+
+trg_Account_Create
+
+trg_User_Delete
+
+---
+
+# SQL Indexes
+
+Indexes begin with 
+
+IX_
+
+Examples
+
+IX_Users_Email
+
+---
+
+# SQL Foreign Keys
+
+Foreign Keys begin with
+
+FK_
+
+Examples
+
+FK_Payments_Users
+
+FK_Report_Users
 
 ---
 
